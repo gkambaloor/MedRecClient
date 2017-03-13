@@ -1,0 +1,255 @@
+
+APP/0[!] VCAP_SERVICES detectedJan 18, 2017 7:43:57 PM
+APP/0peer0: grpcs://30b23fbf906e497c94bd7b2d12401d4f-vp0.us.blockchain.ibm.com:30004Jan 18, 2017 7:43:57 PM
+APP/0peer3: grpcs://30b23fbf906e497c94bd7b2d12401d4f-vp3.us.blockchain.ibm.com:30004Jan 18, 2017 7:43:57 PM
+APP/0peer1: grpcs://30b23fbf906e497c94bd7b2d12401d4f-vp2.us.blockchain.ibm.com:30004Jan 18, 2017 7:43:57 PM
+APP/0peer2: grpcs://30b23fbf906e497c94bd7b2d12401d4f-vp1.us.blockchain.ibm.com:30004Jan 18, 2017 7:43:57 PM
+APP/0INFO	Startup complete on port	8080Jan 18, 2017 7:43:57 PM
+APP/0INFO	Startup	Enrolled registrarJan 18, 2017 7:43:57 PM
+APP/0INFO	Startup	Set registrarJan 18, 2017 7:43:57 PM
+APP/0INFO	Startup	Registrar enroll worked with user Beechvale_GroupJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user DVLAJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user LeaseCanJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user ScrapIt_UKJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Cray_Bros_London_LtdJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Aston_Scrap_CentreJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Regionwide_Vehicle_ContractsJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user MilescapeJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Anthony_O_DowdJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user ToyotaJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Joe_PayneJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Viewers_Alfa_RomeoJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Every_Car_LeasingJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Andrew_HurtJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Checking if chaincode is deployedJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	All users registeredJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Jaguar_Land_RoverJan 18, 2017 7:44:00 PM
+APP/0Attempted to deploy chaincodeJan 18, 2017 7:44:11 PM
+APP/0INFO	Startup	Chaincode successfully deployedJan 18, 2017 7:44:37 PM
+APP/0INFO	Chaincode deployed with chaincodeID 6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5 Jan 18, 2017 7:44:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:45:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:45:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:46:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:46:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:48:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:48:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:49:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:49:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:50:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:50:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:51:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:51:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:52:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:52:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:53:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:53:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:54:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:54:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:55:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:55:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:56:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:56:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:57:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:57:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:58:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:58:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:59:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:00:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:00:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:01:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:02:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:02:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:03:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:04:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:04:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:05:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:05:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:06:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:06:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:07:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:07:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:08:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:09:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:09:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:10:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:10:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:11:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:11:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:12:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:13:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:13:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:14:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:15:08 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:38.386 +0000] "GET / HTTP/1.1" 200 0 7428 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.151:22003 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:0f8b120b-945c-4be1-7a97-5a27e4299944 response_time:0.033050813 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"782151261" Jan 18, 2017 8:15:38 PM
+RTR/2car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:38.775 +0000] "GET /Style/main.css HTTP/1.1" 200 0 7774 "http://car-lease-demo-knguru-1.mybluemix.net/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.151:36587 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:e6440a18-2b99-4a73-636b-7245438b0746 response_time:0.019131316 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"782151725" Jan 18, 2017 8:15:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}
+
+
+
+
+
+---------------------------------
+APP/0[!] VCAP_SERVICES detectedJan 18, 2017 7:43:57 PM
+APP/0peer0: grpcs://30b23fbf906e497c94bd7b2d12401d4f-vp0.us.blockchain.ibm.com:30004Jan 18, 2017 7:43:57 PM
+APP/0peer3: grpcs://30b23fbf906e497c94bd7b2d12401d4f-vp3.us.blockchain.ibm.com:30004Jan 18, 2017 7:43:57 PM
+APP/0peer1: grpcs://30b23fbf906e497c94bd7b2d12401d4f-vp2.us.blockchain.ibm.com:30004Jan 18, 2017 7:43:57 PM
+APP/0peer2: grpcs://30b23fbf906e497c94bd7b2d12401d4f-vp1.us.blockchain.ibm.com:30004Jan 18, 2017 7:43:57 PM
+APP/0INFO	Startup complete on port	8080Jan 18, 2017 7:43:57 PM
+APP/0INFO	Startup	Enrolled registrarJan 18, 2017 7:43:57 PM
+APP/0INFO	Startup	Set registrarJan 18, 2017 7:43:57 PM
+APP/0INFO	Startup	Registrar enroll worked with user Beechvale_GroupJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user DVLAJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user LeaseCanJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user ScrapIt_UKJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Cray_Bros_London_LtdJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Aston_Scrap_CentreJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Regionwide_Vehicle_ContractsJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user MilescapeJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Anthony_O_DowdJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user ToyotaJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Joe_PayneJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Viewers_Alfa_RomeoJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Every_Car_LeasingJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Andrew_HurtJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Checking if chaincode is deployedJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	All users registeredJan 18, 2017 7:44:00 PM
+APP/0INFO	Startup	Registrar enroll worked with user Jaguar_Land_RoverJan 18, 2017 7:44:00 PM
+APP/0Attempted to deploy chaincodeJan 18, 2017 7:44:11 PM
+APP/0INFO	Startup	Chaincode successfully deployedJan 18, 2017 7:44:37 PM
+APP/0INFO	Chaincode deployed with chaincodeID 6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5 Jan 18, 2017 7:44:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:45:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:45:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:46:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:46:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:48:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:48:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:49:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:49:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:50:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:50:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:51:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:51:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:52:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:52:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:53:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:53:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:54:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:54:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:55:07 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:55:37 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:56:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:56:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:57:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:57:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:58:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:58:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 7:59:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:00:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:00:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:01:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:02:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:02:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:03:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:04:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:04:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:05:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:05:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:06:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:06:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:07:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:07:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:08:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:09:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:09:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:10:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:10:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:11:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:11:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:12:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:13:08 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:13:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:14:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:15:08 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:38.386 +0000] "GET / HTTP/1.1" 200 0 7428 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.151:22003 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:0f8b120b-945c-4be1-7a97-5a27e4299944 response_time:0.033050813 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"782151261" Jan 18, 2017 8:15:38 PM
+RTR/2car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:38.775 +0000] "GET /Style/main.css HTTP/1.1" 200 0 7774 "http://car-lease-demo-knguru-1.mybluemix.net/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.151:36587 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:e6440a18-2b99-4a73-636b-7245438b0746 response_time:0.019131316 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"782151725" Jan 18, 2017 8:15:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:15:38 PM
+RTR/1car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:39.090 +0000] "GET /JavaScript/plugins/jQuery-1.11.3.js HTTP/1.1" 200 0 284395 "http://car-lease-demo-knguru-1.mybluemix.net/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.152:12275 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:5c220a6c-acd4-48be-4f2c-19d0be1fc896 response_time:0.033691634 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3702101161" Jan 18, 2017 8:15:39 PM
+RTR/2car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:39.126 +0000] "GET /JavaScript/index/index.js HTTP/1.1" 200 0 1423 "http://car-lease-demo-knguru-1.mybluemix.net/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.151:35076 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:b50a4c8d-c142-4ed2-49e4-7a3e10b2caa2 response_time:0.007047837 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3021485809" Jan 18, 2017 8:15:39 PM
+RTR/3car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:39.754 +0000] "GET /Images/loading.gif HTTP/1.1" 200 0 17454 "http://car-lease-demo-knguru-1.mybluemix.net/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.156:54307 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:fbb8cab4-3b0a-4bdd-61e6-84f701d0221a response_time:0.008418352 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3304952177" Jan 18, 2017 8:15:39 PM
+RTR/1car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:41.759 +0000] "GET /Icons/IBM_logo.svg HTTP/1.1" 200 0 3057 "http://car-lease-demo-knguru-1.mybluemix.net/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.156:58337 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:b7b6a09e-1474-4ccc-43dc-1f2774a802a4 response_time:0.043037255 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"4276833087" Jan 18, 2017 8:15:41 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:41.757 +0000] "GET /blockchain/blocks HTTP/1.1" 200 0 122 "http://car-lease-demo-knguru-1.mybluemix.net/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.151:30002 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:4fcea9e1-ba1b-4fea-791e-da47d6a92fe3 response_time:0.799943605 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"878445571" Jan 18, 2017 8:15:42 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:42.132 +0000] "GET /favicon.ico HTTP/1.1" 200 0 318 "http://car-lease-demo-knguru-1.mybluemix.net/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.155:43672 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:5b21ba8e-89fc-495c-4446-525bb7b4db49 response_time:0.453557249 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"2479217959" Jan 18, 2017 8:15:42 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:54.027 +0000] "GET /Style/main.css HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.155:38252 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:b9f434da-694c-4fc4-6976-c5002138d44b response_time:0.011235089 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3305159489" Jan 18, 2017 8:15:54 PM
+RTR/1car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:54.030 +0000] "GET /JavaScript/plugins/jQuery-1.11.3.js HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.152:10006 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:639f1fe7-fed6-4702-7118-a739780238ef response_time:0.013114394 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"2675250183" Jan 18, 2017 8:15:54 PM
+RTR/1car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:54.031 +0000] "GET /Style/admin.css HTTP/1.1" 200 0 3862 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.152:56941 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:83235eca-c501-4b01-57d0-10c4f2c188fa response_time:0.012905136 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"108868895" Jan 18, 2017 8:15:54 PM
+RTR/1car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:54.359 +0000] "GET /JavaScript/config/config.js HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.156:59951 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:71e59e1b-a6ce-4a2a-4900-bf8389c2dcfb response_time:0.007989508 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"246271501" Jan 18, 2017 8:15:54 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:54.359 +0000] "GET /JavaScript/admin/admin_console.js HTTP/1.1" 200 0 18462 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.151:39304 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:4af8f8d7-685a-458d-52a6-cf1281459d7e response_time:0.012159917 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3702137705" Jan 18, 2017 8:15:54 PM
+RTR/2car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:54.350 +0000] "GET /JavaScript/plugins/jquery-ui-1.11.4/jquery-ui.min.js HTTP/1.1" 200 0 240427 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.151:37674 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:ce3846d4-a912-40cc-7e7a-a337b0332bc3 response_time:0.021753057 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"108893791" Jan 18, 2017 8:15:54 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:54.387 +0000] "GET /JavaScript/page_functions/general_page_functions.js HTTP/1.1" 200 0 6246 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.153:46054 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:978d56cb-6143-4e50-447e-54d37cfce835 response_time:0.022787433 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"2075270653" Jan 18, 2017 8:15:54 PM
+RTR/1car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:55.144 +0000] "GET /Images/Regulator/loading.gif HTTP/1.1" 200 0 17454 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.154:52366 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:8a4dbad4-17d0-4f29-5c00-311a5af21c5b response_time:0.007396246 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3294006295" Jan 18, 2017 8:15:55 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:56.614 +0000] "GET /Icons/tickRed.svg HTTP/1.1" 200 0 720 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.153:23788 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:5aa6ab12-ded8-49dc-5bb3-ad2c7e8f2802 response_time:0.005537036 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"2075291661" Jan 18, 2017 8:15:56 PM
+RTR/1car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:45:57.644 +0000] "GET /Icons/Regulator/IBM_logo.svg HTTP/1.1" 200 0 3057 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.152:11904 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:e86b89b8-4710-4a29-63bb-67fe3721f3ef response_time:0.008104067 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"2675425623" Jan 18, 2017 8:15:57 PM
+APP/0INFO	Demo	Found carsJan 18, 2017 8:16:00 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"check_unique_v5c","args":["CJ9569692"],"attrs":["username","role"]}Jan 18, 2017 8:16:00 PM
+APP/0[#] Creating VehicleJan 18, 2017 8:16:00 PM
+APP/0ENTER	POST admin/demo	INPUT: {"scenario":"full"}Jan 18, 2017 8:16:00 PM
+APP/0INFO	POST admin/demo	Creating vehiclesJan 18, 2017 8:16:00 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"create_vehicle","args":["CJ9569692"],"attrs":["username","role"]}Jan 18, 2017 8:16:00 PM
+RTR/1car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:46:05.590 +0000] "GET /admin/demo HTTP/1.1" 200 0 33 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.154:51560 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:06b6352a-ca59-4fe2-4f52-01141513bafb response_time:0.017471202 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3294009815" Jan 18, 2017 8:16:05 PM
+APP/0[#] Creating VehicleJan 18, 2017 8:16:05 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"create_vehicle","args":["DV5720033"],"attrs":["username","role"]}Jan 18, 2017 8:16:06 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:16:08 PM
+RTR/2car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:46:10.583 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.153:51857 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:b929d921-345b-46dd-7a40-0f88b43b7553 response_time:0.007828779 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"1931826609" Jan 18, 2017 8:16:10 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"check_unique_v5c","args":["YB2747313"],"attrs":["username","role"]}Jan 18, 2017 8:16:11 PM
+APP/0[#] Creating VehicleJan 18, 2017 8:16:11 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"create_vehicle","args":["YB2747313"],"attrs":["username","role"]}Jan 18, 2017 8:16:11 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:46:15.599 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.153:23490 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:1476e8f1-aa65-43f4-40cc-2b467adbd363 response_time:0.394752656 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"2075309821" Jan 18, 2017 8:16:15 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"check_unique_v5c","args":["CY3696174"],"attrs":["username","role"]}Jan 18, 2017 8:16:16 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"create_vehicle","args":["CY3696174"],"attrs":["username","role"]}Jan 18, 2017 8:16:16 PM
+RTR/1car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:46:21.170 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.154:52365 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:96d1f79f-9681-42c7-69a4-aa8ecd1cc6b4 response_time:0.006402809 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3294061239" Jan 18, 2017 8:16:21 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"check_unique_v5c","args":["DU5236580"],"attrs":["username","role"]}Jan 18, 2017 8:16:21 PM
+APP/0[#] Creating VehicleJan 18, 2017 8:16:21 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"create_vehicle","args":["DU5236580"],"attrs":["username","role"]}Jan 18, 2017 8:16:21 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:46:26.179 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.153:19767 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:e4647b3c-5025-4697-58e9-b818fc19f4ed response_time:0.005261891 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3755787699" Jan 18, 2017 8:16:26 PM
+APP/0[#] Creating VehicleJan 18, 2017 8:16:26 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"check_unique_v5c","args":["YW9929247"],"attrs":["username","role"]}Jan 18, 2017 8:16:26 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"create_vehicle","args":["YW9929247"],"attrs":["username","role"]}Jan 18, 2017 8:16:28 PM
+APP/0[#] Creating VehicleJan 18, 2017 8:16:33 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"create_vehicle","args":["OO8316803"],"attrs":["username","role"]}Jan 18, 2017 8:16:33 PM
+RTR/3car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:46:36.166 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.154:49536 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:1f7f71af-7dc3-4dbb-6912-12180a5c14ff response_time:0.007548595 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"1932102769" Jan 18, 2017 8:16:36 PM
+APP/0[#] Creating VehicleJan 18, 2017 8:16:38 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"check_unique_v5c","args":["VX3506374"],"attrs":["username","role"]}Jan 18, 2017 8:16:38 PM
+RTR/2car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:46:41.174 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.153:52267 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:8aa0dea9-880d-4d92-630f-d5511372b575 response_time:0.006773169 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3294228935" Jan 18, 2017 8:16:41 PM
+APP/0[#] Creating VehicleJan 18, 2017 8:16:43 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"check_unique_v5c","args":["WC0979069"],"attrs":["username","role"]}Jan 18, 2017 8:16:43 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"create_vehicle","args":["WC0979069"],"attrs":["username","role"]}Jan 18, 2017 8:16:44 PM
+RTR/1car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:46:46.176 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.154:54075 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:eb4068d4-858d-4063-5192-f16f5a7773b5 response_time:0.005955651 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3755838691" Jan 18, 2017 8:16:46 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"check_unique_v5c","args":["MA9544457"],"attrs":["username","role"]}Jan 18, 2017 8:16:49 PM
+APP/0[#] Creating VehicleJan 18, 2017 8:16:49 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"create_vehicle","args":["MA9544457"],"attrs":["username","role"]}Jan 18, 2017 8:16:49 PM
+RTR/2car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:46:51.164 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.153:52284 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:d4f43f8b-ed33-4c92-5e25-abfa1321c261 response_time:0.008327012 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"252736927" Jan 18, 2017 8:16:51 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"authority_to_manufacturer","args":["Toyota","CJ9569692"],"attrs":["username","role"]}Jan 18, 2017 8:16:54 PM
+RTR/2car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:46:56.170 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.153:52284 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:433e2ecd-e038-47d7-5f83-3945397f06d0 response_time:0.008188904 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3294546423" Jan 18, 2017 8:16:56 PM
+APP/0[#] Transfering Vehicle to ToyotaJan 18, 2017 8:16:59 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"authority_to_manufacturer","args":["Toyota","DV5720033"],"attrs":["username","role"]}Jan 18, 2017 8:16:59 PM
+APP/0[#] Query: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"ping","args":[],"attrs":["username","role"]}Jan 18, 2017 8:17:08 PM
+APP/0[#] Transfering Vehicle to Jaguar_Land_RoverJan 18, 2017 8:17:09 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"authority_to_manufacturer","args":["Jaguar_Land_Rover","CY3696174"],"attrs":["username","role"]}Jan 18, 2017 8:17:09 PM
+APP/0[#] Transfering Vehicle to Jaguar_Land_RoverJan 18, 2017 8:17:14 PM
+RTR/2car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:47:16.190 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.153:50425 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:3d3a859a-d349-4bae-54b8-c6197a767bd7 response_time:0.008329345 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"2075829405" Jan 18, 2017 8:17:16 PM
+APP/0[#] Transfering Vehicle to Jaguar_Land_RoverJan 18, 2017 8:17:19 PM
+RTR/3car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:47:21.198 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.154:57000 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:a35fd539-231c-4729-71de-b50c2fa6203f response_time:0.007859995 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3294585815" Jan 18, 2017 8:17:21 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"authority_to_manufacturer","args":["Alfa_Romeo","OO8316803"],"attrs":["username","role"]}Jan 18, 2017 8:17:24 PM
+APP/0[#] Transfering Vehicle to Alfa_RomeoJan 18, 2017 8:17:24 PM
+RTR/1car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:47:26.203 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.154:24466 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:69f54a2e-267a-41eb-6e16-b6baec977041 response_time:0.006718879 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"252946463" Jan 18, 2017 8:17:26 PM
+APP/0[#] Transfering Vehicle to Alfa_RomeoJan 18, 2017 8:17:29 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"authority_to_manufacturer","args":["Alfa_Romeo","VX3506374"],"attrs":["username","role"]}Jan 18, 2017 8:17:29 PM
+RTR/3car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:47:31.188 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.154:53921 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:32ca6fef-cd06-459e-4626-a5f65456c264 response_time:0.009040821 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"1932364369" Jan 18, 2017 8:17:31 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"authority_to_manufacturer","args":["Alfa_Romeo","WC0979069"],"attrs":["username","role"]}Jan 18, 2017 8:17:34 PM
+APP/0[#] Transfering Vehicle to Alfa_RomeoJan 18, 2017 8:17:34 PM
+APP/0[#] Transfering Vehicle to Alfa_RomeoJan 18, 2017 8:17:39 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"authority_to_manufacturer","args":["Alfa_Romeo","MA9544457"],"attrs":["username","role"]}Jan 18, 2017 8:17:39 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:47:41.166 +0000] "GET /admin/demo HTTP/1.1" 304 0 0 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.153:42811 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:a3d5308c-a3b7-45ef-411a-cfe17e32c136 response_time:0.006671944 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"3755911011" Jan 18, 2017 8:17:41 PM
+APP/0[#] Populating VehicleJan 18, 2017 8:17:44 PM
+APP/0[#] Invoke: {"chaincodeID":"6b3cb42ed2d8bd7f7702e12afc5b05bfd35f8bc435959457e469cec80596e5c5","fcn":"update_vin","args":["720965981630055","CJ9569692"],"attrs":["username","role"]}Jan 18, 2017 8:17:44 PM
+RTR/0car-lease-demo-knguru-1.mybluemix.net - [18/01/2017:14:47:45.595 +0000] "GET /admin/demo HTTP/1.1" 200 0 65 "http://car-lease-demo-knguru-1.mybluemix.net/admin-console.html" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" 108.168.250.153:25556 x_forwarded_for:"42.109.166.124" x_forwarded_proto:"http" vcap_request_id:d547ce26-1837-415b-4468-cb9718812e09 response_time:0.004707603 app_id:4625bc75-a52c-43d1-a552-8cc1a9350eec x_global_transaction_id:"253229855"
